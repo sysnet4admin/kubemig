@@ -194,3 +194,4 @@ git clone --depth 1 https://github.com/sysnet4admin/kdbench.git  ~/.kdbench
 ```bash
 ~/.kdbench/uninstall
 ```
+# kubemig
